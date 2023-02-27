@@ -6,6 +6,7 @@
 
         Console.Write("Lütfen 1 ile 10 arasında bir değer giriniz: ");
         int deger=Convert.ToInt32(Console.ReadLine());      // Klavyeden alınan değer
+        // int deger=int.Parse(Console.Readline()); 
 
         Console.WriteLine();
 
